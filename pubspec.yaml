@@ -1,0 +1,7 @@
+name: dart_test
+version: 0.0.1
+description: A sample command-line application
+dependencies:
+ neo4j_dart: any
+dev_dependencies:
+#  unittest: any
